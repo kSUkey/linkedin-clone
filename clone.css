@@ -1,0 +1,61 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body{
+    color: white;
+    background-color: rgb(29, 44, 53);
+
+    line-height: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.cover
+{
+    max-width: 100%;
+    text-align: center;
+    padding: 0.5em;
+    padding-top: 1em;
+    padding-bottom: 3em;
+    border-radius: .7%;
+}
+
+.image
+{
+    padding-bottom: 2em;
+}
+
+.form
+{
+    background-color:rgb(67, 74, 75);
+    padding : 3em;
+
+}
+.form p{
+      
+}
+.form input
+{
+    width: 100%;
+    height: 40px;
+}
+
+.form button
+{
+    width: 100%;
+    height: 40px;
+    background-color:#0077B5;
+    margin: 0;
+    border: inherit;
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.conditions
+{
+    padding-top:40px;
+    padding-bottom: 10px;
+    font-size: 1.0em;
+}
